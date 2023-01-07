@@ -6,11 +6,11 @@ Half stack developer. Comedor de casadas. Rei da soneca
 
 Claramente eu não faço idéia do que estou fazendo, mas as vezes dá certo.
 
-* 🌍  I'm based in Maringá - PR - Inferno(Brasil)
-* 🖥️  See my portfolio at [Site bolado](http://pudim.com.br)
-* ✉️  You can contact me at meu discord kkkkkkkkk
-* 🧠  I'm learning muita coisa boa
-* 🤝  I'm open to collaborating on site de cassino, site porno, sua idéia multimilionária
+* 🌍  Morando em Maringá - PR - Inferno(Brasil)
+* 🖥️  Se liga nesse [Site bolado](http://pudim.com.br)
+* ✉️  Quer falar comigo? Você não é agiota? Me chama discord kkkkkkkkk
+* 🧠  Aprendendo html e css ainda, sou devagar
+* 🤝  Bora fazer um site de cassino, site porno, sua idéia multimilionária
 * ⚡  Só sofreu na vida quem já espirrou mijando
 
 ### Skills
