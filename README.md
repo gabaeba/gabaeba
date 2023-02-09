@@ -1,4 +1,4 @@
-Eae meu consagrado ! Gaba na área
+Eae meu consagrado! Gaba na área
 ============================================================================================================================
 
 Half stack developer. Comedor de casadas. Rei da soneca
